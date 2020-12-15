@@ -1,0 +1,25 @@
+{
+    // gopls
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+    },
+    "[go.mod]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+    },
+    // golangci-lint  
+    "go.lintTool": "golangci-lint",
+    // on save
+    "go.buildOnSave": "workspace",
+    "go.coverOnSave": true,
+    "go.lintOnSave": "workspace",
+    // cover always
+    "go.coverOnSingleTestFile": true,
+    "go.coverOnSingleTest": true
+}
