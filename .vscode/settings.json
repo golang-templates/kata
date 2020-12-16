@@ -13,8 +13,8 @@
             "source.organizeImports": true,
         },
     },
-    // golangci-lint  
-    "go.lintTool": "golangci-lint",
+    // golint
+    "go.lintTool": "golint",
     // on save
     "go.buildOnSave": "workspace",
     "go.coverOnSave": true,
