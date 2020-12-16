@@ -1,4 +1,4 @@
-# Kata Template
+# Go Kata Template
 
 A repository template for exercises using Visual Studio Code. 
 
