@@ -19,7 +19,9 @@
     "go.buildOnSave": "workspace",
     "go.coverOnSave": true,
     "go.lintOnSave": "workspace",
+    "go.vetOnSave": "workspace",
     // cover always
     "go.coverOnSingleTestFile": true,
     "go.coverOnSingleTest": true
+    
 }
