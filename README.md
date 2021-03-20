@@ -1,6 +1,6 @@
 # Go Kata Template
 
-A repository template for exercises using Visual Studio Code. 
+A repository template for exercises using Visual Studio Code.
 
 You can also simply clone this repository if you do not want to put your code in GitHub.
 
