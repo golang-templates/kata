@@ -13,7 +13,7 @@ Visual Studio Code configuration:
 
 [Development Containers](https://code.visualstudio.com/docs/remote/containers) support.
 
-Continous integration via [GitHub Actions](https://github.com/features/actions).
+Continuous integration via [GitHub Actions](https://github.com/features/actions).
 
 Dependencies scanning and updating thanks to [Dependabot](https://dependabot.com).
 
