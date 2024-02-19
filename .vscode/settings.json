@@ -4,24 +4,13 @@
     "[go]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true,
+            "source.organizeImports": "explicit",
         },
     },
     "[go.mod]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true,
+            "source.organizeImports": "explicit",
         },
-    },
-    // golint
-    "go.lintTool": "golint",
-    // on save
-    "go.buildOnSave": "workspace",
-    "go.coverOnSave": true,
-    "go.lintOnSave": "workspace",
-    "go.vetOnSave": "workspace",
-    // cover always
-    "go.coverOnSingleTestFile": true,
-    "go.coverOnSingleTest": true
-    
+    }
 }
