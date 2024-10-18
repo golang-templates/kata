@@ -1,6 +1,6 @@
 {
-    // gopls
     "go.useLanguageServer": true,
+    "go.coverOnSave": true,
     "[go]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
