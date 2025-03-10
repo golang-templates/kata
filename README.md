@@ -11,8 +11,6 @@ Visual Studio Code configuration:
 - Formatting code, running build, running tests with code coverage and linting on file save.
 - Default build task running unit tests with race detector: `F1` -> `Tasks: Run Build Task (CTRL+ALT+B)`.
 
-[Development Containers](https://code.visualstudio.com/docs/remote/containers) support.
-
 Continuous integration via [GitHub Actions](https://github.com/features/actions).
 
 Dependencies scanning and updating thanks to [Dependabot](https://dependabot.com).
