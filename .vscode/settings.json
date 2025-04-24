@@ -1,6 +1,8 @@
 {
     "go.useLanguageServer": true,
     "go.coverOnSave": true,
+    "go.lintOnSave": "package",
+    "go.lintTool": "staticcheck",
     "[go]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {

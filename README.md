@@ -9,9 +9,9 @@ You can also simply clone this repository if you do not want to put your code in
 Visual Studio Code configuration:
 
 - Formatting code, running build, running tests with code coverage and linting on file save.
-- Default build task running unit tests with race detector: `F1` -> `Tasks: Run Build Task (CTRL+ALT+B)`.
+- Default build task running unit tests with race detector: `F1` -> `Tasks: Run Build Task`.
 
-Continuous integration via [GitHub Actions](https://github.com/features/actions).
+Basic continuous integration via [GitHub Actions](https://github.com/features/actions).
 
 Dependencies scanning and updating thanks to [Dependabot](https://dependabot.com).
 
